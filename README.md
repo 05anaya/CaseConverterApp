@@ -16,4 +16,4 @@ __Note:__ This project was created as a part of the course _iPhone Apps for Comp
 3. Press the **Copy** button to copy the transformed text to your clipboard.
 
 ## Screenshot 
-![Screenshot](images/screenshot.jpg)
+![Screenshot](images/ScreenshotCaseConverter.png)
